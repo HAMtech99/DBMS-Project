@@ -1,0 +1,20 @@
+1,Toyota,Camry,2022,25000.00,false
+2,Ford,F-150,2021,45000.00,false
+3,BMW,M2,2023,62000.00,false
+4,Honda,Civic,2020,22000.00,true
+5,Chevrolet,Silverado,2022,48000.00,false
+6,Audi,A4,2021,45000.00,false
+7,Mercedes,C-Class,2023,55000.00,true
+8,Jeep,Wrangler,2022,42000.00,false
+9,Nissan,Altima,2020,21000.00,false
+10,Hyundai,Sonata,2021,24000.00,false
+11,Kia,Telluride,2022,38000.00,false
+12,Volkswagen,Jetta,2020,23000.00,true
+13,Subaru,Outback,2021,32000.00,false
+14,Mazda,CX-5,2023,34000.00,false
+15,Lexus,RX,2022,52000.00,false
+16,Dodge,Challenger,2021,40000.00,true
+17,Dodge,Ram 1500,2023,55000.00,false
+18,GMC,Sierra,2022,47000.00,false
+19,Cadillac,Escalade,2023,98000.00,false
+20,Porsche,Cayenne,2022,85000.00,false
