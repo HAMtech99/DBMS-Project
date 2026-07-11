@@ -4,6 +4,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+*.zip
+DBMS-Project.iml
+src/META-INF/
 
 ### Eclipse ###
 .apt_generated
